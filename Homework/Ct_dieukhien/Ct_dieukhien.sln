@@ -1,0 +1,50 @@
+﻿
+
+namespace BaitapSophuc
+{
+    class Program
+    {
+        static void Main(string[] args)
+
+        {
+        
+            Console.Write("Nhap so phuc thu nhat\n");//nhap so phuc dau tien
+            Sophuc sp1 = new Sophuc();
+            sp1.nhap();
+            Console.Write("so phuc vua nhap la:");//xuat so phuc dau tien ra
+            sp1.xuat();
+            /////////////////////
+            Console.Write("Nhap so phuc thu hai\n");//nhap so phuc thu hai
+            Sophuc sp2 = new Sophuc();
+            sp2.nhap();
+            Console.Write("so phuc vua nhap la:");//xuat ra so phuc thu hai
+            sp2.xuat();
+            /////////////////////
+            //hieu cua hai so phuc
+            Sophuc sp3 = new Sophuc();
+            sp3 = sp1 - sp2;
+            Console.Write("hieu cua 2 so phuc la:",sp3);
+            sp3.xuat();
+            //tong cua hai so phuc
+            Sophuc sp4 = new Sophuc();
+            sp4 = sp1 + sp2;
+            Console.Write("tong cua 2 so phuc la:",sp4);
+            sp4.xuat();
+            //tich cua 2 so phuc
+            Sophuc sp5 = new Sophuc();
+            sp5 = sp3 * sp4;
+            Console.Write("tich cua 2 so phuc la:",sp5);
+            sp5.xuat();
+            Console.ReadKey();
+
+        }
+    }
+}
+
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {52C87490-BBDB-4A2E-95C7-DD439C3969C7}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+C:\Users\Windows 10 TIMT\source\repos\Ct_dieukhien\Ct_dieukhien\bin\Debug\Ct_dieukhien.exe.config
+C:\Users\Windows 10 TIMT\source\repos\Ct_dieukhien\Ct_dieukhien\bin\Debug\Ct_dieukhien.exe
+C:\Users\Windows 10 TIMT\source\repos\Ct_dieukhien\Ct_dieukhien\bin\Debug\Ct_dieukhien.pdb
+C:\Users\Windows 10 TIMT\source\repos\Ct_dieukhien\Ct_dieukhien\obj\Debug\Ct_dieukhien.csprojAssemblyReference.cache
+C:\Users\Windows 10 TIMT\source\repos\Ct_dieukhien\Ct_dieukhien\obj\Debug\Ct_dieukhien.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10 TIMT\source\repos\Ct_dieukhien\Ct_dieukhien\obj\Debug\Ct_dieukhien.exe
+C:\Users\Windows 10 TIMT\source\repos\Ct_dieukhien\Ct_dieukhien\obj\Debug\Ct_dieukhien.pdb
