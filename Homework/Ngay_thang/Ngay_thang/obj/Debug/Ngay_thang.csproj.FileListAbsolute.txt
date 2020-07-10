@@ -1,0 +1,7 @@
+C:\Users\Windows 10 TIMT\source\repos\Ngay_thang\Ngay_thang\bin\Debug\Ngay_thang.exe.config
+C:\Users\Windows 10 TIMT\source\repos\Ngay_thang\Ngay_thang\bin\Debug\Ngay_thang.exe
+C:\Users\Windows 10 TIMT\source\repos\Ngay_thang\Ngay_thang\bin\Debug\Ngay_thang.pdb
+C:\Users\Windows 10 TIMT\source\repos\Ngay_thang\Ngay_thang\obj\Debug\Ngay_thang.csprojAssemblyReference.cache
+C:\Users\Windows 10 TIMT\source\repos\Ngay_thang\Ngay_thang\obj\Debug\Ngay_thang.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10 TIMT\source\repos\Ngay_thang\Ngay_thang\obj\Debug\Ngay_thang.exe
+C:\Users\Windows 10 TIMT\source\repos\Ngay_thang\Ngay_thang\obj\Debug\Ngay_thang.pdb
